@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Telegram TikTok Scheduler</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f5f7fb;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 900px;
+            margin: 50px auto;
+            background: white;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 0 20px rgba(0,0,0,.08);
+        }
+        h1 {
+            color: #111;
+        }
+        h2 {
+            color: #444;
+            margin-top: 30px;
+        }
+        p {
+            line-height: 1.7;
+        }
+        ul {
+            line-height: 1.8;
+        }
+        .links a{
+            display:inline-block;
+            margin-right:20px;
+            color:#0066cc;
+            text-decoration:none;
+            font-weight:bold;
+        }
+        footer{
+            margin-top:40px;
+            color:#777;
+            font-size:14px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+
+<h1>Telegram TikTok Scheduler</h1>
+
+<p>
+Telegram TikTok Scheduler is a web service integrated with a Telegram bot that allows users to connect their TikTok account securely and upload or publish videos using TikTok's official Content Posting API.
+</p>
+
+<h2>Main Features</h2>
+
+<ul>
+<li>Secure TikTok Login</li>
+<li>Upload videos to TikTok</li>
+<li>Publish videos using TikTok Content Posting API</li>
+<li>Schedule publishing through Telegram</li>
+<li>Manage connected TikTok accounts</li>
+</ul>
+
+<h2>How it works</h2>
+
+<p>
+Users connect their TikTok account through TikTok Login Kit, authorize access, then use the Telegram bot to upload and publish videos to their own TikTok account.
+</p>
+
+<div class="links">
+<a href="privacy.html">Privacy Policy</a>
+<a href="terms.html">Terms of Service</a>
+</div>
+
+<footer>
+© 2026 Telegram TikTok Scheduler
+</footer>
+
+</div>
+
+</body>
+</html>
